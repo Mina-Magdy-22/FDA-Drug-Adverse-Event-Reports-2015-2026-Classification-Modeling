@@ -187,7 +187,7 @@ streamlit run mediguard_app.py
 │   ├── pipeline.svg
 │   ├── key_insights.svg
 │   └── model_performance.svg
-├── Project_Predictive_Analytics_Final__234190_.ipynb   # Full analysis: EDA → modeling → interpretation
+├── Project_Predictive_Analytics.ipynb   # Full analysis: EDA → modeling → interpretation
 ├── mediguard_app.py                               # Streamlit dashboard
 ├── requirements.txt
 └── README.md
@@ -221,7 +221,7 @@ This project is for **analytical and educational purposes only**. It is not a me
 
 ## 👤 Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Mina Magdy** · [LinkedIn](https://www.linkedin.com/in/mina-magdy-data-analyst/?isSelfProfile=true) · [GitHub](https://github.com/Mina-Magdy-22)
 
 ## 📄 License
 
