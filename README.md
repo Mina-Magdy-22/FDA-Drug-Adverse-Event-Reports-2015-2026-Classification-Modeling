@@ -223,10 +223,6 @@ This project is for **analytical and educational purposes only**. It is not a me
 
 **Mina Magdy** · [LinkedIn](https://www.linkedin.com/in/mina-magdy-data-analyst/?isSelfProfile=true) · [GitHub](https://github.com/Mina-Magdy-22)
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
-
 <div align="center">
 
 <sub>If you found this project useful, consider giving it a ⭐</sub>
